@@ -290,7 +290,7 @@ namespace Prog_POE1
         {
             userQuestion = userQuestion.ToLower();
 
-            // Sentiment detection (keep as is, or move to a helper for clarity)
+            // Sentiment detection 
             if (userQuestion.Contains("worried") || userQuestion.Contains("scared") || userQuestion.Contains("anxious") || userQuestion.Contains("overwhelmed"))
             {
                 if (!string.IsNullOrEmpty(lastTopic))
