@@ -1,0 +1,11 @@
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.csproj.AssemblyReference.cache
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.csproj.CoreCompileInputs.cache
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\bin\Debug\Prog_POE1.exe.config
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\bin\Debug\Prog_POE1.exe
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\bin\Debug\Prog_POE1.pdb
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\bin\Debug\Figgle.dll
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\bin\Debug\Figgle.xml
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.csproj.Up2Date
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.exe
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.pdb
+C:\Users\carly\source\repos\Prog_POE1\Prog_POE1\obj\Debug\Prog_POE1.exe.config
